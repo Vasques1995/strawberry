@@ -1,0 +1,19 @@
+{
+  "@@locale": "pt",
+  "homeAppBarTitle": "Início",
+  "@homeAppBarTitle": {
+    "description": "Texto exibido na AppBar da página de início"
+  },
+  "errorAppBarTitle": "Erro",
+  "@errorAppBarTitle": {
+    "description": "Texto exibido na AppBar da página de erro"
+  },
+  "onboardingAppBarTitle": "Onboarding",
+  "@onboardingBarTitle": {
+    "description": "Texto exibido na AppBar da página de onboarding"
+  },
+  "statsAppBarTitle": "Estatísticas",
+  "@statsAppBarTitle": {
+    "description": "Texto exibido na AppBar da página de estatísticas"
+  }
+}
