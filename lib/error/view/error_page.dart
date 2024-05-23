@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:strawberry/l10n/l10n.dart';
 
 class ErrorPage extends StatelessWidget {
   const ErrorPage({super.key});
@@ -7,7 +8,7 @@ class ErrorPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Error'),
+        title: Text(context.l10n.errorAppBarTitle),
       ),
     );
   }

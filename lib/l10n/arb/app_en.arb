@@ -1,7 +1,19 @@
 {
     "@@locale": "en",
-    "counterAppBarTitle": "Counter",
-    "@counterAppBarTitle": {
-        "description": "Text shown in the AppBar of the Counter Page"
+    "homeAppBarTitle": "Home",
+    "@homeAppBarTitle": {
+        "description": "Text shown in the AppBar of the Home Page"
+    },
+    "errorAppBarTitle": "Home",
+    "@errorAppBarTitle": {
+        "description": "Text shown in the AppBar of the Error Page"
+    },
+    "onboardingAppBarTitle": "Home",
+    "@onboardingBarTitle": {
+        "description": "Text shown in the AppBar of the Onboarding Page"
+    },
+    "statsAppBarTitle": "Home",
+    "@statsAppBarTitle": {
+        "description": "Text shown in the AppBar of the Statistics Page"
     }
 }

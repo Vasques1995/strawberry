@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:strawberry/l10n/l10n.dart';
 
 class StatisticsPage extends StatelessWidget {
   const StatisticsPage({super.key});
@@ -7,7 +8,7 @@ class StatisticsPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Statistics'),
+        title: Text(context.l10n.statsAppBarTitle),
       ),
     );
   }
