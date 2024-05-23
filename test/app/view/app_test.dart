@@ -1,5 +1,4 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:strawberry/app/app.dart';
 import 'package:strawberry/match/view/home_page.dart';
 
 import '../../helpers/helpers.dart';
